@@ -21,8 +21,8 @@ I’m on a quest to conquer the realms of **DevOps** and **Data Visualization**.
 
 ## Two truths and one lie about me 🎉
 
-I love sunrises more than sunsets.
-I threw my grandmother's gift in the cow shed immediately after recieving it.
-I can swim.
-
+- I love sunrises more than sunsets.
+- I threw my grandmother's gift in the cow shed immediately after recieving it.
+- I can swim.
+---
 Happy coding! 🚀
