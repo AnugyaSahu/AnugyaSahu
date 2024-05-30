@@ -2,7 +2,7 @@
 
 ## Who Am I? 🤔
 
-Hey there! I'm Anugya a Data Science enthusiast with a Master's degree that's just around the corner.
+Hey there! I'm Anugya interested in exploring state-of-the-art Data Science technologies with a Master's degree that's just around the corner.
 
 - 🧮 **Mathematics Enthusiast**: Numbers and equations are my strengths.
 - 🎨 **Thesis**: Investigating Generative AI Paradoxes!
@@ -24,7 +24,5 @@ I’m on a quest to conquer the realms of **DevOps** and **Data Visualization**.
 I love sunrises more than sunsets.
 I threw my grandmother's gift in the cow shed immediately after recieving it.
 I can swim.
-
----
 
 Happy coding! 🚀
